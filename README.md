@@ -35,5 +35,5 @@ Permitir que o usuário simule diferentes cenários de investimento e visualize:
 
 ## Autor
 
-Desenvolvido como parte do desafio prático da DIO.
+Desenvolvido por Aline de Queiros como parte do desafio prático da DIO – Formação em Excel com IA.
 
